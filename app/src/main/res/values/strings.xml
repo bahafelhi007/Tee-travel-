@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tee Travel</string>
+    <string name="brand_tee">tee</string>
+    <string name="brand_travel">travel</string>
+    <string name="cta_get_my_plans">Get my plans</string>
+    <string name="nav_plan">Plan</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_trips">Trips</string>
+    <string name="nav_profile">Profile</string>
+    <string name="label_lets_explore">Let\'s explore</string>
+    <string name="vibe_all">Vibe</string>
+    <string name="vibe_city">City vibes</string>
+    <string name="vibe_island">Island escape</string>
+    <string name="vibe_desert">Desert mood</string>
+    <string name="vibe_history">History calling</string>
+    <string name="compass_adventure">ADVENTURE</string>
+    <string name="compass_awaits">AWAITS</string>
+    <string name="sample_ai_notice">Sample itinerary preview — connect Firebase AI Logic to unlock live Gemini planning.</string>
+    <string name="cd_user_avatar">Traveler profile avatar</string>
+    <string name="cd_favorite_toggle">Toggle favorite destination</string>
+    <string name="cd_world_globe">Interactive illustrated world globe</string>
+    <string name="cd_generate_plans">Generate personalized travel plans</string>
+    <string name="cd_close_sheet">Close details</string>
+    <string name="saved_empty_title">No saved spots yet</string>
+    <string name="saved_empty_subtitle">Tap the heart on any Polaroid on the globe to build your travel scrapbook.</string>
+    <string name="trips_empty_title">No planned trips yet</string>
+    <string name="trips_empty_subtitle">Pick your budget, origin, and vibe, then tap Get my plans to craft an itinerary.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Tee Travel",
+  "description": "Playful illustrated travel planner with an interactive world globe, curated destination polaroids, budget and vibe filters, and AI-powered trip itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
